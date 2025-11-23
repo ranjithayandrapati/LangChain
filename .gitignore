@@ -1,0 +1,18 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE stuff
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+
+# Optional
+*.log
+*.sqlite3
+*.db

@@ -1,0 +1,16 @@
+langchain_openai>=0.0.208
+langchain-ollama>=0.0.5
+streamlit>=1.24.1
+langchain-core>=0.0.208
+python-dotenv>=1.0.0
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+Chomadb
+faiss-cpu
+sentence_transformers
+wikipedia
+arxiv
