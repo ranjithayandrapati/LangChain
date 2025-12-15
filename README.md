@@ -119,7 +119,7 @@ LANGCHAIN/
   - No API costs
   - Customizable models
 
-### 📚 RAG System (`rag/`)
+### 📚 RAG System
 - **simplerag.ipynb**: Complete RAG implementation
   - Document loading and chunking
   - Embedding generation
