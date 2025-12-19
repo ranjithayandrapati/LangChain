@@ -42,10 +42,10 @@ LANGCHAIN/
 │
 ├── venv/                       # Virtual environment (not tracked)
 │
-├── .env                        # Environment variables (API keys)
+├── .env                        # APT KEYS
 ├── .gitignore                 # Git ignore file
 ├── requirements.txt           # Python dependencies
-└── README.md                  # Project documentation
+└── README.md                  
 ```
 
 ## 🛠️ Installation
